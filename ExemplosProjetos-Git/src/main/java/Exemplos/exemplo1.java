@@ -29,6 +29,7 @@ public class exemplo1 {
         media = num1 + num2 /2;
         
         System.out.println("SUA MÉDIA FOI DE: " + media);
+        
     }
     
 }
